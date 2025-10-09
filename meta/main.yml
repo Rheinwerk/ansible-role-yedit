@@ -1,7 +1,6 @@
 ---
 galaxy_info:
   author: Kenny Woodson
-  namespace: rheinwerk
   role_name: yedit
   description: A yaml/json editing module for idempotent edits.
   company: Red Hat, Inc.
